@@ -1,0 +1,172 @@
+Personer:
+8
+1
+Ingrid Halvorsen
+91675235
+ingrid.halvorsen@hotmail.com
+2
+Lars Eriksen
+92345678
+lars.eriksen@gmail.com
+3
+Mette Solberg
+93456789
+mette.solberg@outlook.com
+4
+Ola Nordmann
+94567890
+ola.nordmann@gmail.com
+5
+Kari Haugen
+95678901
+kari.haugen@yahoo.com
+6
+Per Johansen
+96789012
+per.johansen@gmail.com
+7
+Anne Kristiansen
+97890123
+anne.kristiansen@hotmail.com
+8
+Thomas Berg
+98901234
+thomas.berg@gmail.com
+Museer:
+4
+1
+Engerdal Museum
+Trysil
+2
+Bergen Bymuseum
+Bergen
+3
+Norsk Folkemuseum
+Oslo
+4
+Trondheim Vitenskapsmuseum
+Trondheim
+Funn:
+1
+66.79195598068002, 29.861744277190
+4
+2023-08-17
+1348
+3
+Mynt
+28
+Sølv
+-------
+2
+60.472023809070496, 8.468945981420002
+2
+2023-05-02
+1050
+Våpen
+Sverd
+Jern
+950
+-------
+3
+63.4305150618922, 10.395053386420002
+6
+2024-01-09
+1567
+Smykke
+Brosje
+3234
+119960192460.jpg
+-------
+4
+59.913868013420004, 10.752245981420001
+1
+2023-11-20
+1650
+2
+Mynt
+22
+Gull
+-------
+5
+62.55779037017215, 29.66555626918067
+3
+2023-04-28
+1703
+Våpen
+Øks
+Bronse
+1606
+-------
+6
+58.970002381420004, 5.733107012420001
+7
+2023-09-12
+1420
+1
+Smykke
+Ring
+8900
+220145839201.jpg
+-------
+7
+63.44682738142001, 10.421906012420002
+5
+2024-02-03
+995
+4
+Mynt
+19
+Bronse
+-------
+8
+69.64920838142001, 18.955324012420002
+8
+2023-07-19
+870
+4
+Våpen
+Spydspiss
+Jern
+340
+-------
+9
+61.12489238142001, 7.126345012420001
+2
+2023-06-30
+1789
+Smykke
+Armring
+5600
+330982017744.jpg
+-------
+10
+60.79123438142001, 11.088812012420001
+6
+2024-03-15
+1523
+Mynt
+25
+Sølv
+-------
+11
+59.28390138142001, 5.221930012420001
+4
+2023-10-05
+1200
+1
+Våpen
+Kniv
+Jern
+210
+-------
+12
+63.11067838142001, 8.006112012420001
+1
+2024-01-28
+1610
+3
+Smykke
+Spenne
+4200
+440871029384.jpg
+-------
